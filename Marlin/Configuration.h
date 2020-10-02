@@ -57,7 +57,7 @@
 
 // #define LVGL_UI
 // #define CLASSIC_UI
-// #define COLOR_UI
+#define COLOR_UI
 
 #if V6_330_TITAN_TMC
   #define MOTHERBOARD BOARD_CHITU3D_V6
